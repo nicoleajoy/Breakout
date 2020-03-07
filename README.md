@@ -1,4 +1,4 @@
-Hey!
+Hello!
 
 I made this game as a project for one of my classes.
 
