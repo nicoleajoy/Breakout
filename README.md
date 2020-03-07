@@ -1,8 +1,6 @@
 ## Introduction
 
-Hello! 
-
-I made this game as a project for one of my classes.
+Hello! I made this game as a project for one of my classes.
 
 ## How to Run
 
@@ -23,5 +21,3 @@ There are 6 rows and 10 columns. Boxes closest to the bottom are worth **ONE** p
 ## Final Comments
 
 Thanks for reading!
-
-*-Nicole*
