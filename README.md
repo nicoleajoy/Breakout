@@ -5,8 +5,8 @@ Hello! I made this game as a project for one of my classes.
 ## How to Run
 
 1. Download zip file
-2. Extract contents
-3. Load `main.exe` located in `Breakout/main` subfolder
+2. Extract `Breakout.zip`
+3. Open `Breakout/main.pde` with Processing
 
 ## How to Play
 
